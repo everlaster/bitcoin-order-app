@@ -28,4 +28,5 @@ deploy:
   local_dir: dist/bitcoin
   edge: true
   on:
-    branch: development
+    branch: development 
+
